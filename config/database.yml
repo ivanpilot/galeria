@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: dev
+  database: dev_udacity
   pool: 5
   host: localhost
   port: 5432
